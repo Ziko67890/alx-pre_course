@@ -1,2 +1,2 @@
-My first readme
-README.md in the main branch from GitHub.com
+another readme for 0x01-git
+README update from github.com
