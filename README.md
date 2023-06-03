@@ -1,1 +1,1 @@
-chelsea is crazy 
+dont be an idiot  
